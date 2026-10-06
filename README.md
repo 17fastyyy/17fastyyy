@@ -15,7 +15,7 @@
 
 I'm **Toni Correa**, an 18-year-old IT student based in **Barcelona, Spain**, with a strong interest in **DevOps** and **backend development**.
 
-I enjoy automating processes, working with Linux systems, containerizing applications and understanding how infrastructure fits together in the cloud.
+I enjoy working with Linux systems, developing applications and understanding how infrastructure fits together in the cloud.
 
 - Currently studying **Microcomputer Systems and Networks** (CFGM SMX)
 - Doing my **internship** in the IT department of a company
@@ -31,7 +31,7 @@ I enjoy automating processes, working with Linux systems, containerizing applica
 | Program | Status |
 |---|---|
 | **CFGM in Microcomputer Systems and Networks (SMX)** | In progress |
-| **Master in Backend and Web Development** | |
+| **Master in Backend and Web Development** | Completed |
 | **Secondary Education (ESO)**, Institut Esteve Albert, Sant Vicenç de Montalt | Completed |
 
 **Languages:** Spanish (native), Catalan (native), English (advanced)
